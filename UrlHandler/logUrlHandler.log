@@ -1,0 +1,46 @@
+2020-04-11 20:58:08 - Starting UmbApplicationTests on ankit-Lenovo-E40-70 with PID 18955 (started by ankit in /home/ankit/eclipse-workspace/UrlHandler)
+2020-04-11 20:58:08 - Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2020-04-11 20:58:08 - No active profile set, falling back to default profiles: default
+2020-04-11 20:58:10 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-04-11 20:58:10 - Finished Spring Data repository scanning in 24ms. Found 0 repository interfaces.
+2020-04-11 20:58:11 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-11 20:58:12 - HikariConnectionPool - Starting...
+2020-04-11 20:58:12 - HikariConnectionPool - Driver does not support get/set network timeout for connections. (Not yet supported)
+2020-04-11 20:58:13 - HikariConnectionPool - Start completed.
+2020-04-11 20:58:13 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-04-11 20:58:13 - HHH000412: Hibernate Core {5.4.6.Final}
+2020-04-11 20:58:13 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-04-11 20:58:13 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2020-04-11 20:58:14 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-04-11 20:58:14 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-04-11 20:58:15 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-04-11 20:58:17 - Context refreshed
+2020-04-11 20:58:18 - Found 1 custom documentation plugin(s)
+2020-04-11 20:58:18 - Scanning for api listing references
+2020-04-11 20:58:18 - Started UmbApplicationTests in 11.42 seconds (JVM running for 13.206)
+2020-04-11 20:58:19 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-04-11 20:58:19 - HikariConnectionPool - Shutdown initiated...
+2020-04-11 20:58:19 - HikariConnectionPool - Shutdown completed.
+2020-04-11 21:02:58 - Starting UmbApplicationTests on ankit-Lenovo-E40-70 with PID 19172 (started by ankit in /home/ankit/eclipse-workspace/UrlHandler)
+2020-04-11 21:02:58 - Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2020-04-11 21:02:58 - No active profile set, falling back to default profiles: default
+2020-04-11 21:02:59 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-04-11 21:02:59 - Finished Spring Data repository scanning in 24ms. Found 0 repository interfaces.
+2020-04-11 21:03:00 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-11 21:03:01 - HikariConnectionPool - Starting...
+2020-04-11 21:03:02 - HikariConnectionPool - Driver does not support get/set network timeout for connections. (Not yet supported)
+2020-04-11 21:03:02 - HikariConnectionPool - Start completed.
+2020-04-11 21:03:02 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-04-11 21:03:02 - HHH000412: Hibernate Core {5.4.6.Final}
+2020-04-11 21:03:02 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-04-11 21:03:03 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2020-04-11 21:03:03 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-04-11 21:03:03 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-04-11 21:03:04 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-04-11 21:03:06 - Context refreshed
+2020-04-11 21:03:06 - Found 1 custom documentation plugin(s)
+2020-04-11 21:03:06 - Scanning for api listing references
+2020-04-11 21:03:07 - Started UmbApplicationTests in 9.688 seconds (JVM running for 11.276)
+2020-04-11 21:03:07 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-04-11 21:03:07 - HikariConnectionPool - Shutdown initiated...
+2020-04-11 21:03:07 - HikariConnectionPool - Shutdown completed.
